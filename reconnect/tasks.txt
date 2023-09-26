@@ -1,0 +1,28 @@
+-- programmer --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ o make node system
+ o make charter
+ o make main menu
+ o make level select
+ o make loading screen
+
+-- drawer -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  o make backgrounds
+  o redo node textures
+  o make main menu texture (buttons and title)
+  o aprove of any materials being made
+
+-- designer ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  o make main menu background level
+  o make levels ( ask kyle for help with node system you are going to need it )
+
+
+== notice ===================================================================================================================================================================================================================================
+
+if you wish to add tasks to this then feel free to do so but if you are adding tasks to anyone but your self then you neeeeed to talk to that person first.
+
+also USE UNREAL 5.2.1 i dont want the work to become inaccessible at uni because someone opened it with a diffrent version.
+
+anyone can add to notice section past this point:
